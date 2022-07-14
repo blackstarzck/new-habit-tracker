@@ -1,1 +1,1 @@
-### Functional 컴포넌트로 제작되었습니다.
+### Class 컴포넌트를 Functional 컴포넌트로 변환하는 연습
